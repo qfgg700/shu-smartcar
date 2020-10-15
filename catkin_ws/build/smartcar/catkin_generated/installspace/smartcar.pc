@@ -1,0 +1,8 @@
+prefix=/home/smartcar/catkin_ws/install
+
+Name: smartcar
+Description: Description of smartcar
+Version: 0.0.0
+Cflags: -I/home/smartcar/catkin_ws/install/include
+Libs: -L/home/smartcar/catkin_ws/install/lib 
+Requires: message_runtime

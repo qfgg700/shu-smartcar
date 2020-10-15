@@ -1,0 +1,8 @@
+prefix=/home/smartcar/catkin_ws/install
+
+Name: starter
+Description: Description of starter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/smartcar/catkin_ws/install/lib 
+Requires: 

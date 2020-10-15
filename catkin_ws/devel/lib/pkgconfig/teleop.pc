@@ -1,0 +1,8 @@
+prefix=/home/smartcar/catkin_ws/devel
+
+Name: teleop
+Description: Description of teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/smartcar/catkin_ws/devel/lib 
+Requires: 

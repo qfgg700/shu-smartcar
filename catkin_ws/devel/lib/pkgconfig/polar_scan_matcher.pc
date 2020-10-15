@@ -1,0 +1,8 @@
+prefix=/home/smartcar/catkin_ws/devel
+
+Name: polar_scan_matcher
+Description: Description of polar_scan_matcher
+Version: 0.3.2
+Cflags: -I/home/smartcar/catkin_ws/src/scan_tools/polar_scan_matcher/include
+Libs: -L/home/smartcar/catkin_ws/devel/lib -lpolar_scan_matcher
+Requires: 
